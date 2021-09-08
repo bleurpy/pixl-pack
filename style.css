@@ -179,12 +179,12 @@ text-align: center;
 
 .row{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
           }
 
           .row_mobile{
             display: flex;
-            justify-content: space-around;
+            justify-content: center;
                   }
 
                   .footer_btn_animation:hover
