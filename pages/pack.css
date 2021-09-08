@@ -55,7 +55,7 @@ body
     }
     #btn_home
     {
-    
+            margin-top: 10px;
         position: relative;
         top: 0px;
         font-family: 'Roboto';
@@ -84,6 +84,7 @@ body
   
     #btn_about
     {
+                margin-top: 10px;
         transition: all 0.3s ease;
         position: relative;
         top: 0px;
