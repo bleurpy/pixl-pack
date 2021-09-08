@@ -199,6 +199,16 @@ font-size: 30px;
 color: #000000;
 }
 
+.row{
+    display: flex;
+    justify-content: center;
+          }
+
+          .row_mobile{
+            display: flex;
+            justify-content: center;
+                  }
+
 footer {
 
     width: 100%;
