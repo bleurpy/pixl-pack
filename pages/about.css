@@ -62,7 +62,7 @@ body
     }
     #btn_home
     {
-    
+        transition: all 0.3s ease;
         position: relative;
         top: 0px;
         font-family: 'Roboto';
@@ -75,7 +75,7 @@ body
 
     #btn_home:hover
     {
-      
+        transition: all 0.3s ease;
         position: relative;
         top: -5px;
         font-family: 'Roboto';
@@ -88,6 +88,7 @@ body
 
     #btn_about
     {
+        transition: all 0.3s ease;
         position: relative;
         top: 0px;
         font-family: 'Roboto';
@@ -101,6 +102,7 @@ body
   
     #btn_about:hover
     {
+        transition: all 0.3s ease;
         position: relative;
         top: -5px;
         font-family: 'Roboto';
@@ -138,6 +140,7 @@ color: #000000;
 
                   .footer_btn_animation:hover
                   {
+                    transition: all 0.1s ease;
                       background-color: #A0EE99;
                       border-radius: 10px;
                       padding: 3px;
